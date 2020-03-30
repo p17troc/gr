@@ -1,15 +1,14 @@
 ---
 author: p17troc
-title: -thump
-image_url: /images/apple-macintosh-1984.jpg
-caption: 'Η πρώτη εμπορική επιτυχία για την γραφική επιφάνεια εργασίας ήρθε με τον υπολογιστή Apple Macintosh, ο οποίος θεωρείται εγγονός του Xerox Star και ο βασικός πρόγονος για όλες τις σύγχρονες γραφικές επιφάνειες εργασίας, καθώς κατάφερε να βελτιώσει πολλές πτυχές της διεπαφής και να τα προσφέρει σε μια μορφή και τιμή αποδεκτή από ένα σημαντικό μερίδιο της αγοράς.'
-license_url: 'https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_mouse.jpg'
-license_text: Courtesy of wikimedia
+title: -thump.jpg
+image_url: https://www.google.com/search?q=mozilla+firefox&sxsrf=ALeKk00EjY1K6qEPLCnjGN2isCo7xpa_eQ:1585604491213&source=lnms&tbm=isch&sa=X&ved=2ahUKEwilvc-DlcPoAhXMDewKHStJDQYQ_AUoAnoECBsQBA&biw=1536&bih=754#imgrc=vt7OVbGlbUetaM
+caption: 'O Mozilla Firefox είναι ελεύθερος και ανοιχτού κώδικα browser του παγκόσμιου ιστού.'
+license_url: 'https://el.wikipedia.org/wiki/Mozilla_Firefox.'
+license_text: Courtesy of wikipedia
 categories:
-  - archetypes
-  - forms 
+  - software
 tags:
-  - Apple
-  - Macintosh 
-  - One-button
+  - Search
+  - Mozilla
+  - Firefox
 ---
